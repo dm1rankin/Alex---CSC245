@@ -18,6 +18,7 @@ print("3: Enter 3 for multiplication")
 print("4: Enter 4 for division")
 
 selection = int(input())
+print("\nYour answer is: ")
 if(selection==1):
     print(number_1 + number_2)
 elif(selection==2):

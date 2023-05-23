@@ -1,1 +1,1 @@
-Hello! This is the repistory for Alexander Shagabaev, CSC 245.
+Hello! This is the repository for Alexander Shagabaev, CSC 245.
